@@ -21,7 +21,7 @@ public enum Size {
     }
     public int getMinValue() {
         return minValue;
-    }   
+    }
     public int getMaxValue() {
         return maxValue;
     }
